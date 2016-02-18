@@ -1,0 +1,17 @@
+{
+  "name": "aelvan/imager",
+  "description": "Give your assets a focal point. They deserve it.",
+  "homepage": "https://github.com/brianjhanson/FocalPointField-Craft",
+  "type": "craft-plugin",
+  "keywords": ["craft","plugin"],
+  "license": "MIT",
+  "authors": [{
+    "name": "André Elvan",
+    "email": "me@andreelvan.net",
+    "homepage": "http://andreelvan.net"
+  }],
+  "require": {
+    "composer/installers": "^1.0",
+    "aelvan/imager": "^1.0.5"
+  }
+}
